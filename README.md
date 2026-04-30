@@ -12,10 +12,4 @@ AI Engineer | GenAI | RAG & Agentic Systems
 ![](https://streak-stats.demolab.com/?user=mshoaib40458&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mshoaib40458&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mshoaib40458&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=mshoaib40458&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
