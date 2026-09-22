@@ -154,19 +154,6 @@ An AI-powered mobile application for detecting and classifying potentially pig-d
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mshoaib40458&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=mshoaib40458&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mshoaib40458&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-</p>
-
----
-
 ## 📈 Engineering Focus
 
 Currently focused on building and improving:
